@@ -8,12 +8,12 @@ subtitle: ''
 description: '好风凭借力,送我上青云'
 keywords:
 author: y1ngq1ang
-language: en
-timezone: ''
+language: zh
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://y1ngq1ang.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
