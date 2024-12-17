@@ -777,7 +777,7 @@ google_analytics:
 
 # Baidu Analytics
 # See: https://tongji.baidu.com
-baidu_analytics: 286c8394bad7b31803fe5bdf64ba1c2d
+baidu_analytics: 
 
 # Growingio Analytics
 # See: https://www.growingio.com
