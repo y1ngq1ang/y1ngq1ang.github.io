@@ -777,7 +777,7 @@ google_analytics:
 
 # Baidu Analytics
 # See: https://tongji.baidu.com
-baidu_analytics: 
+baidu_analytics: 286c8394bad7b31803fe5bdf64ba1c2d
 
 # Growingio Analytics
 # See: https://www.growingio.com
@@ -838,7 +838,7 @@ firestore:
 # Show Views / Visitors of the website / page with busuanzi.
 # For more information: http://ibruce.info/2015/04/04/busuanzi/
 busuanzi_count:
-  enable: true
+  enable: false
   total_visitors: true
   total_visitors_icon: fa fa-user
   total_views: true
